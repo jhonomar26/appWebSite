@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">openActivityParameters</string>
+    <string name="view">view</string>
+    <string name="enterWebsite">Enter a Website</string>
+    <string name="end">End</string>
+</resources>
